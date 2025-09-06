@@ -1,2 +1,1 @@
-# cicd
-Curso de CI/CD
+# Curso de CI/CD
